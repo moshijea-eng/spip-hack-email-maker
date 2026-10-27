@@ -25,4 +25,4 @@ To enable Drive saving:
 The script runs as the deploying account and is restricted to that account.
 Do not make the deployment public: the save handler writes files to Drive.
 The first authorization and deployment are required by Google; this cannot be
-done by an unauthenticated standalone HTML file.
+done by an unauthenticated standalone HTML file.# spip-hack-email-maker
